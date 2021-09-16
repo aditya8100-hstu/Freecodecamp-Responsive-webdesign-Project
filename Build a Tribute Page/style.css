@@ -1,0 +1,52 @@
+#main{
+    background: #EEEEEE;
+    margin:20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#title{
+    padding: 20px;
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+#img-div{
+    background: #FFFFFF;
+    padding:20px;
+}
+#img-caption{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+ul {
+    margin-left: 500px;
+    list-style: inside;
+    padding-right: 350px;
+    font-size: 17px;
+  }
+ #quote{
+       text-align: center;
+       margin-left:520px ;
+       margin-right: 300px;
+  }
+  #quote2{
+      margin-left: 520px;
+  }
+  
+#link{
+    margin-left: 300px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
